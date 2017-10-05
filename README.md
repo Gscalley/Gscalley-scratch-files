@@ -4,15 +4,16 @@
 <title>HTML Tutorial</title>
 <body>
 
-<h1>This is a TEST</h1>
-<p>This is a paragraph.</p>
+<h1>questions and answers</h1>
+<body>
 <p> Chapter 0:<p>
 <p>1. Who wrote “software is hard?” Who is that guy? = Donald Knuth, the art of computer programing<p>
 <p>2. Programmers start counting at what number? = 0<p>
 <p>3. What was the original sense of a “hacker?” = “obsessive programing tinkerer”<p>
 <p>4. According to a 2002 NIST study what % of software came in significantly late, over budget, or was canceled? = 2/3, or 66.6%<p>
 <p>5. Who wrote the 1987 essay entitled “No Silver Bullet?” = Fredrick P. Brooks jr.<p>
-
+<body>
+<body>
 <p>Chapter 1:<p>
 <p>1.	What roles in the Chandler project did Michael Toy, John Anderson, Ted Burgess, Mitchell Kapor, and Lou Montulli hold. = ‘debug”  everything that’s on the bug lists<p>
 
