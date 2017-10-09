@@ -54,5 +54,29 @@
 
 <p>What was Andy Hertzfeld’s input when the Chandler project appeared to have stalled? = that developers should stop designing and start coding</p>
 
+<p>Chapter 2:<p>
+<p>1.	What was the lifetime as a supported product, of Lotus 123? When did Kapor walk away from it? Why did he walk away from it? = he left when the company in 1986 had grown exponentially, with thousands of employees making millions of dollars a year.<p> 
+
+<p>2.	What does it mean for a program to “fork?” = to respond to technical disagreements by splitting into rival camps<p>
+
+<p>3.	Linus Torvalds used a “science” and “witchcraft” analogy referring to software, explain. = he says that software is like witchcraft in that it like someone has a small secret and is guarding it, and how that has died out in the software world.<p>
+
+<p>4.	Who, where, when demonstrated one of the first PIM software programs? = Douglas Engelbart, in 1968 introduced the world to the idea of a link and a mouse, along with other elements of personal computing<p>
+
+<p>5.	People often refer to starting their computer as “booting” their computer. What was the origin of this term? = builders of early computer systems had borrowed the term from the concept of pulling one’s self up by the bootstraps to describe the paradox of getting a computer up and running.<p>
+
+<p>6.	Where was the graphical user interface (GUI) developed? = at xerox’s palo alto research center<p>
+
+<p>7.	List three software project “train wrecks.” = the attempt to upgrade IRS systems abandoned in the 70s by Pres. Carter, second attempt canceled by congress in 95’, abd the recent effort suffering massive delays and cost over-runs.<p>
+
+<p>8.	What software crisis? Scan this article, what does it suggest? 
+http://www.drdobbs.com/architecture-and-design/the-non-existent-software-crisis-debunki/240165910 = Since 1995, the Standish Group has reported rather abysmal statistics — from a rate of roughly one-in-six projects succeeding in 1995 to roughly one-in-three projects today, but this author suggests that there is no crisis,<p> 
+
+
+<p>9.	Scan down this article to the two conclusions (about eight paragraphs down). With two sentences, what is your take away from this?
+http://scribblethink.org/Work/Softestim/softestim.html
+= software is creative and has more in common with physics than manufacturing. 
+= we have an ethical responsibility to not over-represent our ability to estimate.<p>
+
 </body>
 </html>
