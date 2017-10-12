@@ -76,41 +76,40 @@ http://www.drdobbs.com/architecture-and-design/the-non-existent-software-crisis-
 <p>9.	Scan down this article to the two conclusions (about eight paragraphs down). With two sentences, what is your take away from this?
 http://scribblethink.org/Work/Softestim/softestim.html
 = software is creative and has more in common with physics than manufacturing. 
-= we have an ethical responsibility to not over-represent our ability to estimate.
+= we have an ethical responsibility to not over-represent our ability to estimate.<p>
 
-Chapter 3
-1.	When introducing a new technology or design, why did Frederick Brooks advise “plan to throw one away?” = because normally you wont get things right the first time
+<p>Chapter 3<p>
+1.	When introducing a new technology or design, why did Frederick Brooks advise “plan to throw one away?” = because normally you wont get things right the first time<p>
 
-2.	What is a “core” dump? Why the use of the word core? = when a computer grinds to a halt, and spits out a file reporting the exact contents of its memory at the moment of failure, so bug hunters can have clues to look at. Core refers to the early wound wire coils that stored memory. 
+<p>2.	What is a “core” dump? Why the use of the word core? = when a computer grinds to a halt, and spits out a file reporting the exact contents of its memory at the moment of failure, so bug hunters can have clues to look at. Core refers to the early wound wire coils that stored memory.<p> 
 
-3.	Rather than writing program statements in binary code, 110101110  1001101111, programmers developed a shorthand language called what? = assembly language
+<p>3.	Rather than writing program statements in binary code, 110101110  1001101111, programmers developed a shorthand language called what? = assembly language<p>
 
-4.	Adding layers of abstraction, new programming languages were created: Lisp, Cobol, Algol, Basic. Fortran was the first widely used. What kind of program converted Fortran to binary? = python, an interpreted language
+<p>4.	Adding layers of abstraction, new programming languages were created: Lisp, Cobol, Algol, Basic. Fortran was the first widely used. What kind of program converted Fortran to binary? = python, an interpreted language<p>
 
-Chapter 4
-1.	What do “front ends” and “back ends” mean to software developers?
-=front ends are the parts of program that deal with you, tells you what’s happening so you can input and output info. Back ends are the result of front-end events/inputs so the computer can make sense of them
+<p>Chapter 4<p>
+<p>1.	What do “front ends” and “back ends” mean to software developers?
+=front ends are the parts of program that deal with you, tells you what’s happening so you can input and output info. Back ends are the result of front-end events/inputs so the computer can make sense of them<p>
 
-2.	What did the Lego Hypothesis refer to?
-= in the future, programs will be built out of reusable parts
+<p>2.	What did the Lego Hypothesis refer to?
+= in the future, programs will be built out of reusable parts<p>
 
-3.	Give one reason why the Lego Hypothesis seems to not work so well.
-= components in actual programs varied enormously in size/function/connections
+<p>3.	Give one reason why the Lego Hypothesis seems to not work so well.
+= components in actual programs varied enormously in size/function/connections<p>
 
 
-Chapter 5
-1.	What is the three-way trade-off that many software projects struggle to overcome.
-= you can make a project fast, cheap, or good. Pick two.
+<p>Chapter 5<p>
+<p>1.	What is the three-way trade-off that many software projects struggle to overcome.
+= you can make a project fast, cheap, or good. Pick two.<p>
 
-2.	What is the more recent definition of “geek?”
-= chooses concentration over conformity, pursues skill and imagination, not mainstream social acceptance 
+<p>2.	What is the more recent definition of “geek?”
+= chooses concentration over conformity, pursues skill and imagination, not mainstream social acceptance <p>
 
-3.	What does “refactoring” mean to programmers?
-= rewriting a chunk of code to make it briefer, clearer, and easier to read without changing function
+<p>3.	What does “refactoring” mean to programmers?
+= rewriting a chunk of code to make it briefer, clearer, and easier to read without changing function<p>
 
-4.	What is “yak-shaving?”
-= seemingly pointless activity to solve a problem which solves a problem which, several levels of recursion later, solves the real problem you’re working on.
-<p>
+<p>4.	What is “yak-shaving?”
+= seemingly pointless activity to solve a problem which solves a problem which, several levels of recursion later, solves the real problem you’re working on.<p>
 
 </body>
 </html>
